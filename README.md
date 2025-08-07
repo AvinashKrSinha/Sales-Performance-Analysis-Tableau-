@@ -3,6 +3,7 @@ This repository showcases a complete end-to-end Tableau Story project built to a
 ---
 # 🧭 Dashboard Purpose:
 The purpose of sales Dashboard is to present an overview of the sales metrics and trends in order to analyze year over year sales performance and understand sales trends.
+
 ---
 # 🧭 Project Flow 
 
