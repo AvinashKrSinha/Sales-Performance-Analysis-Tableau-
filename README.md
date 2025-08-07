@@ -2,8 +2,7 @@
 This repository showcases a complete end-to-end Tableau Story project built to analyze Sales Performance. It follows a structured approach covering requirement analysis, data preparation, chart building, and dashboard storytelling using Tableau's Story feature.
 ---
 
-
-🧭 Project Flow
+# 🧭 Project Flow 
 
 1️⃣ Analyse Requirements
 
@@ -19,7 +18,7 @@ This repository showcases a complete end-to-end Tableau Story project built to a
 
 ---
 
-2️⃣ Build the Data Source
+# 2️⃣ Build the Data Source
 
 🔗 Connect Data: Load and link your data sources into Tableau.
 
@@ -34,8 +33,7 @@ This repository showcases a complete end-to-end Tableau Story project built to a
 
 
 ---
-
-3️⃣ Building Charts
+# 3️⃣ Building Charts
 
 ➕ Create Calculated Fields & Test: Develop necessary formulas (e.g., profit margin, YoY growth).
 
@@ -54,8 +52,7 @@ This repository showcases a complete end-to-end Tableau Story project built to a
 
 
 ---
-
-4️⃣ Building Dashboard
+# 4️⃣ Building Dashboard
 
 ✏ Draw Mockups for Containers: Plan layout using vertical/horizontal containers.
 
@@ -79,8 +76,7 @@ Add Spaces (inner/outer padding)
 
 
 ---
-
-5️⃣ View Chapter (Story Setup)
+# 5️⃣ View Chapter (Story Setup)
 
 🔄 Add Filters & Dynamic Interactions: Implement interactivity with filters and parameters.
 
