@@ -1,7 +1,9 @@
 # 📊Sales Peformance Analysis | Tableau
 This repository showcases a complete end-to-end Tableau Story project built to analyze Sales Performance. It follows a structured approach covering requirement analysis, data preparation, chart building, and dashboard storytelling using Tableau's Story feature.
 ---
-
+# 🧭 Dashboard Purpose:
+The purpose of sales Dashboard is to present an overview of the sales metrics and trends in order to analyze year over year sales performance and understand sales trends.
+---
 # 🧭 Project Flow 
 
 1️⃣ Analyse Requirements
