@@ -60,17 +60,17 @@ This repository showcases a complete end-to-end Tableau Story project built to a
 
 🧩 Put all Charts together: Add the charts to the dashboard.
 
-🎛 Format:
+     🎛 Format:
 
-Distribute content evenly
-
-Format sizes, font styles, etc.
-
-Use Fit to Entire View
-
-Add Legends for clarity
-
-Add Spaces (inner/outer padding)
+          Distribute content evenly
+          
+          Format sizes, font styles, etc.
+          
+          Use Fit to Entire View
+          
+          Add Legends for clarity
+          
+          Add Spaces (inner/outer padding)
 
 
 
