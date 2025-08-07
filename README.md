@@ -6,7 +6,7 @@ The purpose of sales Dashboard is to present an overview of the sales metrics an
 ---
 # 🧭 Project Flow 
 
-1️⃣ Analyse Requirements
+# 1️⃣ Analyse Requirements
 
 📋 Collect Requirements: Gather business goals and identify key performance indicators (KPIs).
 
