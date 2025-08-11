@@ -112,4 +112,4 @@ This project reflects my capabilities as a business/data analyst — combining t
 
 ## Contributing & License
 
-Contributions and feedback are welcome. Please open an issue or a pull request. Consider adding a license file (e.g., MIT) if you want to make this repo reusable.
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
